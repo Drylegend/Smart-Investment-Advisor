@@ -4,6 +4,9 @@ A machine learning-powered Streamlit web app that helps predict future stock pri
 
 ![App Screenshot](screenshot.png)
 
+![App Screenshot](screenshot1.png)
+
+
 ## 🔍 Features
 
 - ✅ Fetches real-time stock data using `yfinance`
